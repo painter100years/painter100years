@@ -1,4 +1,4 @@
-# Hi, I'm Reuben! 👋
+# Hi, I'm Reuben!
 
 🎓 Computer Science student at Simon Fraser University.
 
