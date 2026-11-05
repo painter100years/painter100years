@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @reuben
-- 💻 Computer Science student at SFU
-- 👀 Interested in software development and cyber security
-- 🌱 Currently learning PostgreSQL, C, and Assembly
-- 💞️ Looking to collaborate on full stack applications
-- 📫 Open to collaborations and opportunities
+# Hi, I'm Reuben! 👋
 
-- 🚀 Knows: JavaScript | Python | Java | React | Node.js | PostgreSQL | C
+🎓 Computer Science student at Simon Fraser University.
+
+💻 Interested in software development and cybersecurity.
+
+🌱 Currently learning PostgreSQL, C, and Assembly.
+
+🚀 Building full-stack applications and working on personal projects.
+
+🤝 Open to collaboration and new opportunities.
+
+# Technologies & Languages
+
+JavaScript | Python | Java | C | React | Node.js | PostgreSQL
